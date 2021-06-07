@@ -1,0 +1,6 @@
+# ignore log files and databases
+*.env
+
+# ignore node dependency directories
+node_modules/
+.next/
